@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  padding-top: 100px;
+}
+
+/* navbar styles */
+.navbar {
+  font-family: 'Poppins', sans-serif; /* Apply Poppins font */
+  background: linear-gradient(90deg, #3a86ff, #8338ec, #ff006e); /* Vibrant gradient */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Depth */
+  padding: 10px 20px;
+}
+
+.navbar a {
+  color: white;
+  font-size: 1.1rem; 
+  font-weight: 600; 
+  text-transform: uppercase; 
+  transition: color 0.3s ease, transform 0.3s ease; 
+}
+
+.navbar a:hover {
+  color: #ffdd59;  
+  transform: scale(1.1); 
+}
+/* about-section */
+.about-section {
+  padding: 50px 0;
+  background-color: #ecf0f1;
+}
+
+.about-section h2 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+  line-height: 1.6;
+}
+
+/* footer styles */
+.footer {
+  background: linear-gradient(135deg, #06d6a0, #118ab2, #073b4c); /* Vibrant gradient */
+  padding: 2rem;
+  color: white;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}
+
+.footer p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.footer a {
+  margin: 0 1rem;
+  font-size: 1.5rem; 
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.footer a:hover {
+  color: rgb(153, 152, 152); 
+  transform: scale(1.2); 
+}

@@ -1,0 +1,38 @@
+.hero-section {
+  height: 100vh; /* Full screen height */
+  width: 100%; /* Full screen width */
+  background: linear-gradient(135deg, #ff7eb3, #ff758c, #ff6e64); /* Vibrant gradient */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.hero-section h1 {
+  font-size: 4rem; /* Large heading */
+  font-weight: bold;
+  color: #fff; /* White color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Slight shadow for contrast */
+}
+
+.hero-section p {
+  font-size: 1.5rem; /* Subtitle */
+  color: #f1f1f1; /* Slightly off-white */
+}
+
+.hero-section .btn {
+  font-size: 1.2rem;
+  padding: 0.7rem 2rem;
+  background: #ffaf42; /* Vibrant button color */
+  border: none;
+  border-radius: 30px; /* Rounded button */
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Slight shadow */
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.hero-section .btn:hover {
+  background: #ff9a00; /* Darker shade on hover */
+  transform: scale(1.1); /* Subtle hover effect */
+}
