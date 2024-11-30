@@ -37,7 +37,7 @@ The website will be live at:
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Screenshot 2024-11-30 124629](https://github.com/user-attachments/assets/2de0bc90-8aad-4807-93ed-02d0ac8b7632
+| ![Screenshot 2024-11-30 124629](https://github.com/user-attachments/assets/2de0bc90-8aad-4807-93ed-02d0ac8b7632)
  | ![Mobile View](++![Screenshot 2024-11-30 124826](https://github.com/user-attachments/assets/93ad3d82-9e6a-4f1e-9bab-6d4e87dd4f94)
  |
 
