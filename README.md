@@ -1,4 +1,4 @@
-echo "# Portfolio Website
+## Portfolio Website
 
 A professional and responsive portfolio website showcasing my projects, skills, and contact information. Built with **React** and styled using **Bootstrap**, this website includes smooth animations and dynamic interactions.
 
@@ -18,17 +18,6 @@ A professional and responsive portfolio website showcasing my projects, skills, 
 - **gh-pages**: For deployment on GitHub Pages.
 
 ## Deployment
-
-The website is deployed using GitHub Pages. To deploy manually:
-
-1. **Build the project**:
-   \`\`\`bash
-   npm run build
-   \`\`\`
-2. **Deploy to GitHub Pages**:
-   \`\`\`bash
-   npm run deploy
-   \`\`\`
 
 The website will be live at:
 \`https://yourusername.github.io/yourrepositoryname\`
@@ -50,4 +39,4 @@ Feel free to reach out to me:
 - **Portfolio**: https://glowing-baklava-642df7.netlify.app
 
 **⭐ Don't forget to star this repository if you found it helpful!**
-" > README.md
+
