@@ -17,29 +17,6 @@ A professional and responsive portfolio website showcasing my projects, skills, 
 - **Vite**: Build tool for optimized performance.
 - **gh-pages**: For deployment on GitHub Pages.
 
-## Installation and Setup
-
-Follow the steps below to set up and run the project locally:
-
-1. **Clone the repository**:
-   \`\`\`bash
-   git clone https://github.com/yourusername/yourrepositoryname.git
-   \`\`\`
-2. **Navigate to the project directory**:
-   \`\`\`bash
-   cd yourrepositoryname
-   \`\`\`
-3. **Install dependencies**:
-   \`\`\`bash
-   npm install
-   \`\`\`
-4. **Run the development server**:
-   \`\`\`bash
-   npm run dev
-   \`\`\`
-5. Open your browser and navigate to:
-   \`http://localhost:5173\`
-
 ## Deployment
 
 The website is deployed using GitHub Pages. To deploy manually:
@@ -60,15 +37,17 @@ The website will be live at:
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop View](link-to-desktop-screenshot.png) | ![Mobile View](link-to-mobile-screenshot.png) |
+| ![Desktop View](![Screenshot 2024-11-30 124629](https://github.com/user-attachments/assets/2de0bc90-8aad-4807-93ed-02d0ac8b7632)
+) | ![Mobile View](![Screenshot 2024-11-30 124826](https://github.com/user-attachments/assets/93ad3d82-9e6a-4f1e-9bab-6d4e87dd4f94)
+) |
 
 ## Contact
 
 Feel free to reach out to me:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: rohitrai0768@gmail.com
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- **Portfolio**: https://glowing-baklava-642df7.netlify.app
 
 **⭐ Don't forget to star this repository if you found it helpful!**
 " > README.md
